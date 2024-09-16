@@ -55,14 +55,11 @@ The complete code for this project is available in the project repository. It in
 
 ## Project Repository
 
-(Provide the link to your project repository, if publicly available)
+(This is the project repository itself and datasets are also provided)
 
 ## License
 
-(Specify the license under which the code is distributed)
+(LICENSE @vvishwa5524 vishwanath Tuduru)
 
-## Contact
-
-(Provide contact information for further assistance or project inquiries)
 
 This README.md provides a comprehensive overview of the Brain Tumor Detection project, explaining the data preprocessing steps, model architecture, training procedure, deployment aspects, and disclaimer. It also suggests potential improvements and directs users to the project repository for the complete code. Remember to update the placeholder information with specific details regarding your project setup.
